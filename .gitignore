@@ -15,3 +15,5 @@ rtlgenrandom*
 steamclient.exp
 steamclient.lib
 out/*
+.cache/
+docker/
